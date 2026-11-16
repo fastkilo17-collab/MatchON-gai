@@ -1,0 +1,8 @@
+{
+  "name": "MatchON",
+  "description": "ระบบจัดการแข่งขันแบดมินตัน สมัคร จัดสาย จัดตาราง คะแนนสด ครบในที่เดียว",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
